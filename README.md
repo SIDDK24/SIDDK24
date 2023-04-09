@@ -1,16 +1,22 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SIDDK24.SIDDK24">
 
-<!--
-**SIDDK24/SIDDK24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Siddhesh+Koyande...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <code><a href="mailto:skoyande17@gmail.com" title="Gmail"><img width="22"src="https://github.com/SIDDK24/SIDDK24/blob/master/icons/Gmail.png"> Gmail</a></code>
+    <code><a href="https://t.me/SIDDK" title="Gmail"><img width="22"src="https://github.com/SIDDK24/SIDDK24/blob/master/icons/Telegram.png"> Telegram</a></code>
+</p>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just a beginner and learner.....
+<p align="center">
+
+![SIDDK24's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIDDK24&show_icons=true&count_private=true&theme=yeblu)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SIDDK24&theme=soft-green)](https://git.io/streak-stats)
+
+</p>
