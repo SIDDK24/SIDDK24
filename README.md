@@ -7,8 +7,7 @@
 </h1>
 
 <p align="center">
-  <code><a href="mailto:skoyande17@gmail.com" title="Gmail"><img width="22"src="https://github.com/SIDDK24/SIDDK24/blob/master/icons/Gmail.png"> Gmail</a></code>
-    <code><a href="https://t.me/SIDDK" title="Gmail"><img width="22"src="https://github.com/SIDDK24/SIDDK24/blob/master/icons/Telegram.png"> Telegram</a></code>
+    <code><a href="https://t.me/SIDDK" title="Gmail"><img width="22"src="https://github.com/SIDDK24/SIDDK24/blob/main/icons/Telegram.png"> Telegram</a></code>
 </p>
 <br />
 
